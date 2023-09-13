@@ -1,6 +1,6 @@
 <?php 
 
-$serviror = "localhost";
+$servidor = "localhost";
 $usuario = "root";
 $senha = "";
 $dbname = "crud";
