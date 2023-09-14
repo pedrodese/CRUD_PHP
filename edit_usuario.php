@@ -39,5 +39,7 @@ $row_usuario = mysqli_fetch_assoc($resultado_usuario);
 
 
         <input type="submit" value="Editar">
+
+    </form>    
 </body>
 </html>
